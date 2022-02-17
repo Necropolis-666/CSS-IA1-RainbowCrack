@@ -1,9 +1,12 @@
 # CSS-IA1-RainbowCrack
 CSS IA 1, RainBrowCrack
-
+Made by 
+Swastik kar
+Mitali Sharma
+Rainbow tables:-
 The rainbow tables were can be generated using either the command prompt, or using some softfare such as Winrtgen
 
-The code run in command prompt was-
+The code run in command prompt was--
 
 Microsoft Windows [Version 10.0.19043.1526]
 (c) Microsoft Corporation. All rights reserved.
